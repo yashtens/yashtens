@@ -1,162 +1,46 @@
 # Hi there 👋, I'm Yash Marathe
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-💻 **Aspiring AI/ML Engineer | Data Analyst | Problem Solver**
-📍 Maharashtra, India
-
----
+🎓 B.Tech AIML Student | 💻 DSA Enthusiast | 🤖 Aspiring AI/ML Engineer
 
 ## 🚀 About Me
 
-* 🎓 Currently pursuing B.Tech in Artificial Intelligence and Machine Learning at R. C. Patel Institute of Technology, Shirpur.
-* 💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.
-* 📚 Strong foundation in Data Structures & Algorithms, DBMS, and Object-Oriented Programming.
-* 🔭 Currently working on AI/ML projects and improving problem-solving skills.
-* 🌱 Learning Machine Learning, FastAPI, Data Analytics, and System Design.
-* 🎯 Goal: To build impactful AI solutions and secure a Software/AI Engineer role.
-
----
+* 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning at R.C. Patel Institute of Technology, Shirpur.
+* 💻 Solved 150+ problems on LeetCode, 100+ on GeeksforGeeks, and 500+ on CodeChef.
+* 🌱 Currently learning Machine Learning, FastAPI, and Data Analytics.
+* 🏆 Winner of DSA Olympiad 2025.
+* 🇯🇵 JLPT N5 Certified.
+* 🎯 Goal: To build impactful AI solutions and secure a software/AI engineering role.
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages:** Python, Java, C, SQL
 
-* Python
-* Java
-* C
-* SQL
+**Web Development:** HTML, CSS, Flask, FastAPI, Streamlit
 
-### Web Development
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
 
-* HTML
-* CSS
-* Flask
-* FastAPI
-* Streamlit
-
-### Data Science & Analytics
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Power BI
-
-### Databases
-
-* MySQL
-* SQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* PyCharm
-* IntelliJ IDEA
-* Postman
-* Excel
-* Kaggle
-
-### Data Skills
-
-* Data Gathering
-* Web Scraping
-* Data Cleaning
-* Data Analysis
-* Data Visualization
-
----
-
-## 📈 Coding Achievements
-
-🏆 Winner – DSA Olympiad 2025
-
-🔥 150+ Problems Solved on LeetCode
-
-💚 100+ Problems Solved on GeeksforGeeks
-
-🚀 500+ Problems Solved on CodeChef
-
-⭐ LeetCode Contest Rating: 1481
-
-🏅 Earned multiple LeetCode badges including the 100 Days Badge (2025)
-
----
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook, PyCharm, Postman
 
 ## 🌟 Featured Projects
 
-### 🍕 Swiggy Pizza Sales Dashboard
+🚜 **KrishiTrack** – Smart Farm Management System built using Flask, FastAPI, and MySQL.
 
-A Business Intelligence Dashboard built using Python, Power BI, and Web Scraping.
+🍕 **Swiggy Pizza Sales Dashboard** – Data analytics dashboard using Power BI, Selenium, and BeautifulSoup.
 
-#### Features
+## 📈 Coding Profiles
 
-* Automated data collection using BeautifulSoup and Selenium
-* Data cleaning and transformation pipeline
-* Interactive Power BI dashboards
-* Revenue and sales trend analysis
-* Business insights for decision-making
-
-**Tech Stack:** Python, Pandas, Power BI, BeautifulSoup, Selenium
-
----
-
-### 🌾 KrishiTrack – Smart Farm Management System
-
-A Full-Stack Farm Management Application designed for farmers.
-
-#### Features
-
-* Crop tracking and monitoring
-* Task management system
-* Farm activity management
-* Secure database integration
-* User-friendly dashboard
-
-**Tech Stack:** Flask, FastAPI, MySQL, HTML, CSS, Python
-
----
-
-## 🌱 Currently Learning
-
-* Machine Learning
-* Deep Learning
-* FastAPI
-* Data Analytics
-* Advanced DSA
-* System Design Fundamentals
-
----
-
-## 🏆 Certifications & Activities
-
-🇯🇵 JLPT N5 Certified (Japanese Language Proficiency Test)
-
-🎯 Active Competitive Programmer
-
-📊 Data Science & Analytics Enthusiast
-
----
+* LeetCode: 150+ Problems Solved
+* GeeksforGeeks: 100+ Problems Solved
+* CodeChef: 500+ Problems Solved
 
 ## 📫 Connect With Me
 
 📧 Email: [maratheyash58@gmail.com](mailto:maratheyash58@gmail.com)
 
-💼 LinkedIn: Your LinkedIn Profile Link
+💼 LinkedIn: Your LinkedIn Link
 
-💻 GitHub: Your GitHub Profile Link
+💻 GitHub: Your GitHub Link
 
-📊 Kaggle: Your Kaggle Profile Link
+📊 Kaggle: Your Kaggle Link
 
-🧩 LeetCode: Your LeetCode Profile Link
-
----
-
-## ⚡ Fun Fact
-
-> "AI can automate tasks, but strong Data Structures and Algorithms make efficient solutions possible."
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⚡ Fun Fact: "Every day I try to become 1% better at problem-solving."
