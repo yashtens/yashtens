@@ -37,10 +37,10 @@
 
 📧 Email: [maratheyash58@gmail.com](mailto:maratheyash58@gmail.com)
 
-💼 LinkedIn: Your LinkedIn Link
+💼 LinkedIn: https://www.linkedin.com/in/yash-marathe-955557289/
 
-💻 GitHub: Your GitHub Link
+💻 GitHub: https://github.com/yashtens
 
-📊 Kaggle: Your Kaggle Link
+📊 Kaggle: https://www.kaggle.com/pyyashmarathe
 
 ⚡ Fun Fact: "Every day I try to become 1% better at problem-solving."
